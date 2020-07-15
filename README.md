@@ -1,5 +1,5 @@
 # ✨ _Tiago Oliveira_ ✨
-[![Linkedin Badge](https://img.shields.io/badge/-oliveiratif-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oliveiratf/)](https://www.linkedin.com/in/oliveiratf/)
+[![Linkedin Badge](https://img.shields.io/badge/-oliveiratf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/oliveiratf/)](https://www.linkedin.com/in/oliveiratf/)
 [![Gmail Badge](https://img.shields.io/badge/-oliveiratif@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oliveiratif@gmail.com)](mailto:oliveiratif@gmail.com)
 
 ### Hi there 👋
